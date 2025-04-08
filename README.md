@@ -1,6 +1,6 @@
 # Full Stack Student Portfolio - Early
 
-This is an early version of Sharon Heim's portfolio, created during the initial stages of a Full Stack Web Development course. The portfolio serves as a showcase of projects and skills, while also demonstrating progress in learning web development fundamentals, including semantic HTML, responsive design, and accessibility.
+This is an early version of my portfolio, created during the initial stages of a Full Stack Web Development course. The portfolio serves as a showcase of projects and skills, while also demonstrating progress in learning web development fundamentals, including semantic HTML, responsive design, and accessibility.
 
 ## Table of Contents
 
